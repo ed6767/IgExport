@@ -1,6 +1,8 @@
 # IgExport
 An application that exports Instagram Direct Messages. Easy and simple to use.
 
+This project is split into two apps, IgExport and IgExport Viewer. IgExport creates chat logs, while IgExport Viewer is simply a post processor and allows the logs to be read.
+
 ### Features
 - Export entire chats
 - Search entire chats
