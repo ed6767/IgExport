@@ -10,6 +10,7 @@ By generating or distributing or otherwise using a log, you agree that:
 - The log was created with an account that the exporting user had permission to use.
 - The log was created without any kind of automation.
 - The log was not created to aid or assist in illegal activity.
+- The log has had <b>no</b> licensing notices removed or otherwise modified in violation of the software license.
 
 
 IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
